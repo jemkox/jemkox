@@ -9,5 +9,5 @@ I am an Computer Engineering Freshman at **Politecnico di Torino**, focusing on 
 * **Practice:** Digital logic simulation via HDLBits
 
 ###  Background & Interests
-* **University:** Politecnico di Torino (Incoming Fall 2026)
+* **University:** Politecnico di Torino
 * **Focus Areas:** CPU Architecture, Pure Semiconductors, Open-Source ISA
