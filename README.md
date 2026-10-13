@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Efe 👋
 
-<!--
-**jemkox/jemkox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an incoming Engineering Freshman at **Politecnico di Torino**, focusing on digital logic, computer architecture, and RTL design. My long-term goal is to build a career in the pure semiconductor industry.
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
+* **Architecture:** RISC-V (Actively completing the Linux Foundation's LFD110 course)
+* **Hardware Description:** Learning Verilog / SystemVerilog
+* **Practice:** Digital logic simulation via HDLBits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Background & Interests
+* **University:** Politecnico di Torino (Incoming Fall 2026)
+* **Focus Areas:** CPU Architecture, Pure Semiconductors, Open-Source ISA
+
