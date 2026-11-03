@@ -10,4 +10,4 @@ I am an Computer Engineering Freshman at **Politecnico di Torino**, focusing on 
 
 ###  Background & Interests
 * **University:** Politecnico di Torino
-* **Focus Areas:** CPU Architecture, Pure Semiconductors, Open-Source ISA
+* **Focus Areas:** CPU Architecture, Pure Semiconductors, Open-Source ISA and EDA
